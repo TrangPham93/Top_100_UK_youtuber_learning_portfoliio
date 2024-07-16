@@ -31,6 +31,9 @@ Table of content:
 # Dashboard 
 ![Dashboard](assets/images/top_100_youtuber_uk_dashboard.png)
 
+https://github.com/TrangPham93/Top_100_UK_youtuber_learning_portfoliio/blob/2b9ebe4805321bb8df4f3c0fa1f5eae6b5279bc5/assets/images/top_100_youtuber_uk_dashboard.png
+
+
 # Analysis in MySQL
 
 ```sql
