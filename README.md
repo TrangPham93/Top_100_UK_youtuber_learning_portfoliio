@@ -25,13 +25,13 @@ Table of content:
   - [Kaggle source](#Kaggle)
   - [Python](#Python)
 - [Dashboard](#Dashboard)
-- [Analysis in MyQSL](#analysis in MySQL)
+- [Analysis in MyQSL](#analysis-in-MySQL)
 - [Table](#Table)
 
 # Dashboard 
 ![Dashboard](assets/images/top_100_youtuber_uk_dashboard.png)
 
-# Analysis in MySQL
+# Analysis-in-MySQL
 
 '''sql
 
