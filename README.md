@@ -26,12 +26,12 @@ Table of content:
   - [Python](#Python)
 - [Dashboard](#Dashboard)
 - [Analysis in MyQSL](#analysis in MySQL)
-- [Table](Table)
+- [Table](#Table)
 
-#Dashboard 
+# Dashboard 
 ![Dashboard](assets/images/top_100_youtuber_uk_dashboard.png)
 
-#Analysis in MySQL
+# Analysis in MySQL
 
 '''sql
 
@@ -153,7 +153,7 @@ ORDER BY net_profit DESC
 '''
 
 
-Table:
+# Table
 
 | Col 1 | Col 2 | Col 3|
 | ----- | ----- | -----|
