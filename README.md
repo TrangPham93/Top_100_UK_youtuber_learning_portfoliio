@@ -31,7 +31,7 @@ Table of content:
 # Dashboard 
 ![Dashboard](assets/images/top_100_youtuber_uk_dashboard.png)
 
-# Analysis-in-MySQL
+# Analysis in MySQL
 
 '''sql
 
