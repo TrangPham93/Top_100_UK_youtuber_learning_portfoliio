@@ -10,7 +10,7 @@ To create a table of content:
 - in a round bracket with a hashtag: to push to the section of the content
 - subheader: add indentation
 - embeded image: ![]()
-- code block: ''' language '''
+- code block: ``` language ```
 - to create a table: dash and pipe
 
 ## Header 1
