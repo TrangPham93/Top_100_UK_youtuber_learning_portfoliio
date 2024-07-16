@@ -33,7 +33,7 @@ Table of content:
 
 # Analysis in MySQL
 
-´´´sql
+```sql
 
 /*
 # Data cleaning steps
@@ -150,7 +150,7 @@ ORDER BY net_profit DESC
 ;
 
 
-´´´
+```
 
 
 # Table
